@@ -100,17 +100,17 @@ export const listTools = [
   },
 ];
 
-import Proyek1 from "/assets/proyek/proyek1.webp";
-import Proyek2 from "/assets/proyek/proyek2.webp";
-import Proyek3 from "/assets/proyek/proyek3.webp";
-import Proyek4 from "/assets/proyek/proyek4.webp";
-import Proyek5 from "/assets/proyek/proyek5.webp";
-import Proyek6 from "/assets/proyek/proyek6.webp";
+import Project1 from "/assets/proyek/proyek1.webp";
+import Project2 from "/assets/proyek/proyek2.webp";
+import Project3 from "/assets/proyek/proyek3.webp";
+import Project4 from "/assets/proyek/proyek4.webp";
+import Project5 from "/assets/proyek/proyek5.webp";
+import Project6 from "/assets/proyek/proyek6.webp";
 
-export const listProyek = [
+export const listProject = [
   {
     id: 1,
-    gambar: Proyek1,
+    gambar: Project1,
     nama: "Website Sekolah",
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["HTML", "CSS", "Javascript", "AOS"],
@@ -118,7 +118,7 @@ export const listProyek = [
   },
   {
     id: 2,
-    gambar: Proyek2,
+    gambar: Project2,
     nama: "Company Profile",
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["HTML", "CSS", "Javascript", "AOS", "Swiper", "Lightbox Gallery"],
@@ -126,7 +126,7 @@ export const listProyek = [
   },
   {
     id: 3,
-    gambar: Proyek3,
+    gambar: Project3,
     nama: "Web Pernikahan 2.0",
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["Vite", "ReactJS", "TailwindCSS", "AOS"],
@@ -134,7 +134,7 @@ export const listProyek = [
   },
   {
     id: 4,
-    gambar: Proyek4,
+    gambar: Project4,
     nama: "Website Course",
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["Vite", "ReactJS", "Bootstrap", "AOS"],
@@ -142,7 +142,7 @@ export const listProyek = [
   },
   {
     id: 5,
-    gambar: Proyek5,
+    gambar: Project5,
     nama: "Web Portfolio",
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["HTML", "CSS", "Javascript", "Bootsrap"],
@@ -150,7 +150,7 @@ export const listProyek = [
   },
   {
     id: 6,
-    gambar: Proyek6,
+    gambar: Project6,
     nama: "Company Profile 2.0",
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["NextJS", "TailwindCSS", "Framermotion"],
