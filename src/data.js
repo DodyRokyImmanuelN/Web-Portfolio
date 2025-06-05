@@ -1,7 +1,9 @@
 import HeroImage from "/assets/hero-img.webp";
+import LogoImage from "/assets/favicon.png";
 
 const Image = {
   HeroImage,
+  LogoImage,
 };
 
 export default Image;
